@@ -1,4 +1,4 @@
-<h1 align="center">WildBeast  🐺</h1>
+<h1 align="center">Wildbeast  🐺</h1>
 
 Seguindo o curso de CSS Grid Layout da **[origamid](https://www.origamid.com/curso/css-grid-layout/).**
 
